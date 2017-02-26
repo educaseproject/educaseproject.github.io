@@ -1,0 +1,22 @@
+
+p{
+	text-align: center;
+	font-size: 20px;
+	font-style: bold;
+	color: white;
+}
+.col-md-4{
+	border-style: dashed;
+	border-color: white;
+}
+img{
+	max-width: 100%;
+}
+body{
+	background: url("../img/school.jpeg") no-repeat center center fixed;
+	background-size: cover;
+
+}
+h1{
+	size: 20px;color: white;
+}
